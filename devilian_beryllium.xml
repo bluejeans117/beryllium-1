@@ -1,0 +1,129 @@
+[CENTER][IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Banner.png[/IMG]
+
+[CODE]#include <std_disclaimer.h>
+[FONT="Comic Sans MS"]/*[/FONT]
+[FONT="Comic Sans MS"] * Your warranty is... still valid?
+[FONT="Comic Sans MS"] * I am not responsible for bricked devices, dead SD cards,[/FONT]
+[FONT="Comic Sans MS"] * thermonuclear war, or you getting fired because the alarm app failed. Please[/FONT]
+[FONT="Comic Sans MS"] * do some research if you have any concerns about features included in this ROM[/FONT]
+[FONT="Comic Sans MS"] * before flashing it! YOU are choosing to make these modifications, and if[/FONT]
+[FONT="Comic Sans MS"] * you point the finger at me for messing up your device, I will laugh at you.[/FONT]
+[FONT="Comic Sans MS"] */[/CODE][/FONT]
+[FONT="Comic Sans MS"][/FONT]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/About.png[/IMG]
+[FONT="Comic Sans MS"]Devilian OS is an aftermarket android firmware. Started with the intension of providing latest update with handpicked and useful customization & not to bloat the OS with useless ones. Although our aim is to get best out of the device with peak point performance and the battery life. Providing you all these stuff to make sure you get the most of the thing you using as daily driver
+[/FONT]
+
+[FONT="Comic Sans MS"][SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE][/FONT]
+[FONT="Comic Sans MS"]Also, we got our [URL="https://t.me/devilianoschannel"]Telegram Group[/URL] to talk about the ROM, share some evil stuffs, ideas or even have fun with us![/FONT]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Team.png[/IMG]
+[B][FONT="Comic Sans MS"]Sushant[/FONT][/B] 
+[B][FONT="Comic Sans MS"]Beingmishra[/FONT][/B] 
+[B][FONT="Comic Sans MS"]Satyam Sharma[/FONT][/B] 
+[B][FONT="Comic Sans MS"]Himanshu Naamdev[/FONT][/B] 
+[B][FONT="Comic Sans MS"]RE1GNZ [/FONT][/B] 
+[B][FONT="Comic Sans MS"]Sãikîrañ [/FONT][/B] 
+[B][FONT="Comic Sans MS"]Anti *Spam Bot [/FONT][/B] 
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Features.png[/IMG]
+
+[HIDE]
+• November security patch.
+• HW Keys customization support
+• Add preference for Accidental Touch
+• Volume Rocker music controls 
+• Volume rocker cursor control 
+• Port: Wake on plug 
+• Battery light customization 
+• Incall vibration options 
+• Fingerprint authentication vibration 
+• Add toggle for face auto unlock 
+• Status network traffic 
+• Hide arrows in Network Traffic indicators 
+• Pimp the power menu out 
+• Powermenu Torch option 
+• Add prefs for qs brightness slider position 
+• Double tap to sleep on the lock screen 
+• Double tap to sleep on statusbar 
+• Allow using 4G icon instead LTE 
+• Hide power menu on secure lockscreen 
+• Add Omni Jaws
+• Add three-fingers-swipe to screenshot
+• Add keyguard weather style (2/2) 
+• Make the power menu configurable
+• Move Gestures to HellHound
+• Add VOLTE icon toggle
+• Battery Customisation.
+• Navbar invert layout.
+• QS brightness slider position.
+• Lockscreen Charging info.[/HIDE]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Sources.png[/IMG]
+[FONT="Comic Sans MS"][URL="https://github.com/DevilianOS"]DevilianOS[/URL][/FONT]
+[FONT="Comic Sans MS"][URL="https://github.com/DevilianOS-Devices"]DevilianOS-Devices[/URL][/FONT]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Install.png[/IMG]
+[FONT="Comic Sans MS"][B]- Download the ROM and GApps and transfer them to your device.[/FONT]
+[FONT="Comic Sans MS"]- Backup your personal data (Important)[/FONT]
+[FONT="Comic Sans MS"]- Boot to recovery (TWRP recommended).[/FONT]
+[FONT="Comic Sans MS"]- Wipe the System, Cache, Data and ART/Dalvik cache.[/FONT]
+[FONT="Comic Sans MS"]- Flash the ROM + Gapps Zipfile.[/FONT]
+[FONT="Comic Sans MS"]- Flash the root solution of your choice (optional).[/FONT]
+[FONT="Comic Sans MS"]- Reboot your device.[/B][/FONT]
+
+[FONT="Comic Sans MS"][B]The ROM has GApps persistence in between dirty flashes, so you only have to flash them once![/FONT]
+[FONT="Comic Sans MS"]The root solution should be flashed together with every update (= ROM Update)[/B][/FONT]
+
+[FONT="Comic Sans MS"][SIZE=3][B]Currently Supported Root Solutions:[/B][/SIZE][/FONT]
+[FONT="Comic Sans MS"][COLOR="DarkRed"][URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Magisk stable[/URL][/COLOR][/FONT]
+[FONT="Comic Sans MS"]Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine[/FONT]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Downloads.png[/IMG]
+[FONT="Comic Sans MS"][B]ROM:[/B] [URL="https://sourceforge.net/projects/devilianos/files/DevilianOS-Alpha-beryllium-OFFICIAL-20191109-1351.zip/download"]DOWNLOAD HERE[/URL] [/FONT]
+[FONT="Comic Sans MS"][B]GApps:[/B] [/FONT]
+[FONT="Comic Sans MS"][URL="https://opengapps.org"]OpenGApps[/URL][/FONT]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Known%20Issues.png[/IMG]
+
+[FONT="Comic Sans MS"]You tell... :P[/FONT]
+
+[IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Credits.png[/IMG]
+
+- [FONT="Comic Sans MS"]AOSP[/FONT]
+- [FONT="Comic Sans MS"]Pixel Experience[/FONT]                 
+- [FONT="Comic Sans MS"]LineageOS[/FONT]
+- [FONT="Comic Sans MS"]Project Xtended (Special Thanks To SuperDroidBond)[/FONT]
+- [FONT="Comic Sans MS"]LineageOS[/FONT]
+- [FONT="Comic Sans MS"]NitrogenOS[/FONT]
+- [FONT="Comic Sans MS"]Bootleggers Rom[/FONT]
+- [FONT="Comic Sans MS"]Pixys OS[/FONT]
+- [FONT="Comic Sans MS"]POSP[/FONT]
+- [FONT="Comic Sans MS"]ArrowOS[/FONT]
+- [FONT="Comic Sans MS"]AOSIP[/FONT]
+- [FONT="Comic Sans MS"]Superior OS[/FONT]
+- [FONT="Comic Sans MS"]Specially Thanks To Babboc33 For Testing Stuffs..[/FONT]
+- [FONT="Comic Sans MS"]Thanks To Other Testers And Designers Who Helps A LOT..[/FONT]
+- [FONT="Comic Sans MS"]Also many pro devs who all help us to bring this rom to you..[/FONT]
+- [FONT="Comic Sans MS"]Every maintainer who decided to give our project to You.[/FONT]
+- [FONT="Comic Sans MS"]And Specially You for your interest on our project :)[/FONT]
+- [FONT="Comic Sans MS"]Please let us know if we forgot to mention your name in credits..[/CENTER][/FONT]
+
+[FONT="Comic Sans MS"][B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B][/FONT]
+
+[FONT="Comic Sans MS"][B][U]Contributors:[/U][/B][/FONT]
+[FONT="Comic Sans MS"](mention all the devs who have contributed to your device tree, kernel, vendor, etc,[/FONT]
+[FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=10140999"]Sushant[/URL],[URL="https://forum.xda-developers.com/member.php?u=6549853"]Re1ngz[/URL],[URL="https://forum.xda-developers.com/member.php?u=8222620"]Saikiran[/URL][/FONT]
+
+
+[FONT="Comic Sans MS"][B]Kernel source:[/B][/FONT]
+[FONT="Comic Sans MS"][B]https://github.com/AOSiP-Devices/kernel_xiaomi_sdm845.git[/B][/FONT]
+
+[FONT="Comic Sans MS"][B]ROM OS Version:[/B] 10.0_r11 [/FONT]
+[FONT="Comic Sans MS"][B]ROM Kernel:[/B] Linux 4.0 (EG: 4.4.y)[/FONT]
+[FONT="Comic Sans MS"][B]Based On:[/B] AOSP[/FONT]
+
+[FONT="Comic Sans MS"][B][U]Version Information[/U][/B][/FONT]
+[FONT="Comic Sans MS"][B]Status:[/B] Alpha[/FONT]
+[FONT="Comic Sans MS"][B]Current Version:[/B] v1.x[/FONT]
+[FONT="Comic Sans MS"][B]Release Date:[/B] 11-09-2019[/FONT]

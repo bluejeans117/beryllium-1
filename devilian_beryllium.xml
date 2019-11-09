@@ -18,12 +18,15 @@
 [FONT="Comic Sans MS"][SIZE=+1]Got an issue or suggestion? Reach us at[/SIZE][/FONT]
 [FONT="Comic Sans MS"]Also, we got our [URL="https://t.me/devilianoschannel"]Telegram Group[/URL] to talk about the ROM, share some evil stuffs, ideas or even have fun with us![/FONT]
 
+[FONT="Comic Sans MS"][SIZE="4"] Telegram Group (Beryllium) [/SIZE][/FONT]
+[URL="https://t.me/devilianospoco"] Join The DevilianOS - Pocophone F1 Group [/URL]
+
 [IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Team.png[/IMG]
 [B][FONT="Comic Sans MS"]Sushant[/FONT][/B] 
 [B][FONT="Comic Sans MS"]Beingmishra[/FONT][/B] 
 [B][FONT="Comic Sans MS"]Satyam Sharma[/FONT][/B] 
 [B][FONT="Comic Sans MS"]Himanshu Naamdev[/FONT][/B] 
-[B][FONT="Comic Sans MS"]RE1GNZ [/FONT][/B] 
+[B][FONT="Comic Sans MS"]REIGNZ [/FONT][/B] 
 [B][FONT="Comic Sans MS"]Sãikîrañ [/FONT][/B] 
 [B][FONT="Comic Sans MS"]Anti *Spam Bot [/FONT][/B] 
 [IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Features.png[/IMG]
@@ -80,9 +83,8 @@
 [FONT="Comic Sans MS"]Magisk versions higher than 14.0 doesn't require flash on every dirty flash depending on the device, some devices need you to flash it every time, unless your maintainer says otherwise it should be fine[/FONT]
 
 [IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Downloads.png[/IMG]
-[FONT="Comic Sans MS"][B]ROM:[/B] [URL="https://sourceforge.net/projects/devilianos/files/DevilianOS-Alpha-beryllium-OFFICIAL-20191109-1351.zip/download"]DOWNLOAD HERE[/URL] [/FONT]
-[FONT="Comic Sans MS"][B]GApps:[/B] [/FONT]
-[FONT="Comic Sans MS"][URL="https://opengapps.org"]OpenGApps[/URL][/FONT]
+[FONT="Comic Sans MS"][B]ROM:[/B] [URL="https://sourceforge.net/projects/devilianos/files/beryllium/"]DOWNLOAD HERE[/URL] [/FONT]
+[FONT="Comic Sans MS"][B]GApps:[/B] [URL="https://opengapps.org"]OpenGApps[/URL][/FONT]
 
 [IMG]https://raw.githubusercontent.com/DevilianOS/Devilian_Extras/ten/Img/Known%20Issues.png[/IMG]
 
@@ -113,11 +115,11 @@
 
 [FONT="Comic Sans MS"][B][U]Contributors:[/U][/B][/FONT]
 [FONT="Comic Sans MS"](mention all the devs who have contributed to your device tree, kernel, vendor, etc,[/FONT]
-[FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=10140999"]Sushant[/URL],[URL="https://forum.xda-developers.com/member.php?u=6549853"]Re1ngz[/URL],[URL="https://forum.xda-developers.com/member.php?u=8222620"]Saikiran[/URL][/FONT]
+[FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=10140999"]Sushant[/URL],[URL="https://forum.xda-developers.com/member.php?u=6549853"]Reignz[/URL],[URL="https://forum.xda-developers.com/member.php?u=8222620"]Saikiran[/URL][/FONT]
 
 
 [FONT="Comic Sans MS"][B]Kernel source:[/B][/FONT]
-[FONT="Comic Sans MS"][B]https://github.com/AOSiP-Devices/kernel_xiaomi_sdm845.git[/B][/FONT]
+[FONT="Comic Sans MS"][B][url]https://github.com/AOSiP-Devices/kernel_xiaomi_sdm845.git[/url][/B][/FONT]
 
 [FONT="Comic Sans MS"][B]ROM OS Version:[/B] 10.0_r11 [/FONT]
 [FONT="Comic Sans MS"][B]ROM Kernel:[/B] Linux 4.0 (EG: 4.4.y)[/FONT]
